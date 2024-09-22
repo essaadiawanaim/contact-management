@@ -32,9 +32,25 @@ Search Contact by a personal or professional phone number.
 
 ## Technologies Used:
 
-* Java
-* GUI for the application interface
-* Database for data management
+1. Java - Primary programming language for the application's logic and UI.
+2. Swing - Java's graphical user interface (GUI) toolkit for creating the front-end.
+3. JDBC (Java Database Connectivity) - For connecting and interacting with the MySQL database.
+4. MySQL - The relational database management system used to store user and contact information.
+5. SQL - Used for querying and managing data within the MySQL database.
+6. PreparedStatement - Used in SQL queries to enhance security by preventing SQL injection.
+7. JPasswordField - A Java Swing component used for securely capturing user passwords.
+8. Event Listeners (ActionListener) - For handling user actions like button clicks in the UI.
+9. Java AWT Toolkit - Used to manage images and system-specific properties for the UI (Toolkit.getDefaultToolkit()).
+10. ImageIcon - Used for displaying images (such as icons) in the application.
+11. IntelliJ IDEA - Integrated Development Environment (IDE) used for writing, debugging, and running the application.
+These technologies contributed to both the front-end and back-end development of the contact management system.
+
+
+
+
+
+
+
 
 
 
