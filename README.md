@@ -32,9 +32,9 @@ Search Contact by a personal or professional phone number.
 
 ## Technologies Used:
 
-#### Java
-#### GUI for the application interface
-#### Database for data management
+* Java
+* GUI for the application interface
+* Database for data management
 
 
 
